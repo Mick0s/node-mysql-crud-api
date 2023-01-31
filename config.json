@@ -1,9 +1,9 @@
 ﻿{
     "database": {
-        "host": "localhost",
+        "host": "eauctionsql.carx3wrbzlxl.ap-southeast-2.rds.amazonaws.com",
         "port": 3306,
-        "user": "root",
-        "password": "",
-        "database": "node-mysql-crud-api"
+        "user": "admin",
+        "password": "password",
+        "database": "testdb"
     }
 }
